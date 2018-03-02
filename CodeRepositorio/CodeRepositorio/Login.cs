@@ -27,7 +27,7 @@ namespace CodeRepositorio
                 if (txtPassord.Text == "Batch0021")
                 {
                     Main m = new Main();
-                    m.Show(); //hola mundo
+                    m.Show(); 
                     this.Hide();
                 }
                 else
