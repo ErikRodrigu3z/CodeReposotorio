@@ -1,0 +1,13 @@
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\bin\Debug\CodeRepositorio.exe.config
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\bin\Debug\CodeRepositorio.exe
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\bin\Debug\CodeRepositorio.pdb
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\bin\Debug\System.Data.SQLite.dll
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\bin\Debug\System.Data.SQLite.pdb
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.Login.resources
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.Main.resources
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.Properties.Resources.resources
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.csproj.GenerateResource.Cache
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.exe
+C:\Users\erik\Documents\Visual Studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.pdb
+C:\Users\erik\documents\visual studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.Modificador.resources
+C:\Users\erik\documents\visual studio 2012\Projects\CodeRepositorio\CodeRepositorio\obj\Debug\CodeRepositorio.csprojResolveAssemblyReference.cache
